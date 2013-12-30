@@ -1,0 +1,4 @@
+Author: Allen Hsia
+Language: C++ -11
+Compile: The makefile attached is an html file. When I downloaded the files from myasu files, it gives it as an html file. WHen compiling, make a make file and copy what is inside into the make file. Once it's done, press make and it will compile. If not type this to compile "all: g++ Main.cpp -std=gnu++11 -g3 -ggdb -o project " but without the quotes.
+Notes: This file takes in a file by pressing using the < on the command prompt. <Text1.txt to feed in a file named text1.txt. Note that text1.txt is not in the zip file but simple an arbitrary name for a text file. THe output has the token in the left side and the type it is on the right side. The format may include an extra indentation but that is simply because the token was too long.
